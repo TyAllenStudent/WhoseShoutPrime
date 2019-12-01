@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WhoseShoutPrime", "WhoseShoutPrime\WhoseShoutPrime.vbproj", "{C55DD7A5-7F73-47F4-BCD7-8F182EC7ABBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C55DD7A5-7F73-47F4-BCD7-8F182EC7ABBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55DD7A5-7F73-47F4-BCD7-8F182EC7ABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55DD7A5-7F73-47F4-BCD7-8F182EC7ABBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55DD7A5-7F73-47F4-BCD7-8F182EC7ABBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741B2520-ED21-44B8-AFEE-13FB6E3CA9C0}
+	EndGlobalSection
+EndGlobal
